@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "task2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task1-Debug-ee6bb5f2f051f4aa65f0.json",
+					"name" : "task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task2-Debug-aeb08f1c4c0190833af5.json",
+					"name" : "task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task3-Debug-8cc13f5cc26ac043f30f.json",
+					"name" : "task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task3cont::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task3cont-Debug-ad93563f4a2573d587a3.json",
+					"name" : "task3cont",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task4-Debug-a55c6d52a52f3b9654e6.json",
+					"name" : "task4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task5-Debug-28d03b0280404ce15b42.json",
+					"name" : "task5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task6-Debug-d4769bcdea4f41cab3d7.json",
+					"name" : "task6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/andreyedalov/Desktop/\u0421++/Contests/Contest2/cmake-build-debug",
+		"source" : "/Users/andreyedalov/Desktop/\u0421++/Contests/Contest2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

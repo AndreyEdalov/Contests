@@ -1,0 +1,3 @@
+/Users/andreyedalov/Desktop/С++/Contests/Сontest 4/cmake-build-debug/CMakeFiles/contest3.dir
+/Users/andreyedalov/Desktop/С++/Contests/Сontest 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andreyedalov/Desktop/С++/Contests/Сontest 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

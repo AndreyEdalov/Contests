@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Contest1.dir/1.cpp.o -c /Users/andreyedalov/Desktop/С++/Contests/Contest1/1.cpp",
+  "file": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/1.cpp",
+  "output": "CMakeFiles/Contest1.dir/1.cpp.o"
+},
+{
+  "directory": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Contest1.dir/DayAfterTommorow.cpp.o -c /Users/andreyedalov/Desktop/С++/Contests/Contest1/DayAfterTommorow.cpp",
+  "file": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/DayAfterTommorow.cpp",
+  "output": "CMakeFiles/Contest1.dir/DayAfterTommorow.cpp.o"
+},
+{
+  "directory": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Contest1.dir/in2.cpp.o -c /Users/andreyedalov/Desktop/С++/Contests/Contest1/in2.cpp",
+  "file": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/in2.cpp",
+  "output": "CMakeFiles/Contest1.dir/in2.cpp.o"
+},
+{
+  "directory": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Contest1.dir/machine_parts.cpp.o -c /Users/andreyedalov/Desktop/С++/Contests/Contest1/machine_parts.cpp",
+  "file": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/machine_parts.cpp",
+  "output": "CMakeFiles/Contest1.dir/machine_parts.cpp.o"
+},
+{
+  "directory": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Contest1.dir/MKAD.cpp.o -c /Users/andreyedalov/Desktop/С++/Contests/Contest1/MKAD.cpp",
+  "file": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/MKAD.cpp",
+  "output": "CMakeFiles/Contest1.dir/MKAD.cpp.o"
+},
+{
+  "directory": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Contest1.dir/Multiplicationtable.cpp.o -c /Users/andreyedalov/Desktop/С++/Contests/Contest1/Multiplicationtable.cpp",
+  "file": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/Multiplicationtable.cpp",
+  "output": "CMakeFiles/Contest1.dir/Multiplicationtable.cpp.o"
+},
+{
+  "directory": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Contest1.dir/Sum_of_digits.cpp.o -c /Users/andreyedalov/Desktop/С++/Contests/Contest1/Sum_of_digits.cpp",
+  "file": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/Sum_of_digits.cpp",
+  "output": "CMakeFiles/Contest1.dir/Sum_of_digits.cpp.o"
+},
+{
+  "directory": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Contest1.dir/test.cpp.o -c /Users/andreyedalov/Desktop/С++/Contests/Contest1/test.cpp",
+  "file": "/Users/andreyedalov/Desktop/С++/Contests/Contest1/test.cpp",
+  "output": "CMakeFiles/Contest1.dir/test.cpp.o"
+}
+]

@@ -1,0 +1,9 @@
+/Users/andreyedalov/Desktop/С++/Contests/Contest 5/cmake-build-debug/CMakeFiles/1.dir
+/Users/andreyedalov/Desktop/С++/Contests/Contest 5/cmake-build-debug/CMakeFiles/test.dir
+/Users/andreyedalov/Desktop/С++/Contests/Contest 5/cmake-build-debug/CMakeFiles/11.dir
+/Users/andreyedalov/Desktop/С++/Contests/Contest 5/cmake-build-debug/CMakeFiles/2.dir
+/Users/andreyedalov/Desktop/С++/Contests/Contest 5/cmake-build-debug/CMakeFiles/4.dir
+/Users/andreyedalov/Desktop/С++/Contests/Contest 5/cmake-build-debug/CMakeFiles/3.dir
+/Users/andreyedalov/Desktop/С++/Contests/Contest 5/cmake-build-debug/CMakeFiles/5.dir
+/Users/andreyedalov/Desktop/С++/Contests/Contest 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andreyedalov/Desktop/С++/Contests/Contest 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

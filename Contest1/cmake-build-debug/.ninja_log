@@ -1,0 +1,11 @@
+# ninja log v5
+0	1123	1706010116631663939	CMakeFiles/Contest1.dir/in2.cpp.o	dad00b16de3a679f
+1	1132	1706010116631761728	CMakeFiles/Contest1.dir/machine_parts.cpp.o	a7bb5096bee3b6a6
+0	1134	1706010116642270131	CMakeFiles/Contest1.dir/1.cpp.o	a899998c8802f0f1
+0	1135	1706010116629208209	CMakeFiles/Contest1.dir/DayAfterTommorow.cpp.o	1386ce7e48801b93
+1	1136	1706010116631555984	CMakeFiles/Contest1.dir/MKAD.cpp.o	7b9510dfdf19db03
+1	1137	1706010116642492042	CMakeFiles/Contest1.dir/Multiplicationtable.cpp.o	8d2404c83f19bade
+1130	1723	1706010117236350960	CMakeFiles/Contest1.dir/Sum_of_digits.cpp.o	f03dbce507521b03
+1132	1741	1706010117254494379	CMakeFiles/Contest1.dir/test.cpp.o	d99f87413278c644
+3	660	1706346674070055924	CMakeFiles/Contest1.dir/machine_parts.cpp.o	a7bb5096bee3b6a6
+4	432	1706346690552854686	CMakeFiles/Contest1.dir/machine_parts.cpp.o	a7bb5096bee3b6a6
