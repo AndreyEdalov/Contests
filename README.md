@@ -1,2 +1,2 @@
 # Contests
-HSE Freshers C++ comtests
+HSE Freshers C++ contests
